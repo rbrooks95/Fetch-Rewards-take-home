@@ -27,7 +27,7 @@ theres not that much details in this. i looked up some very simple form template
 # JAVASCRIPT FOCUS
 
 
-I made a form with the following fields
+
 
 - select
  I used axios which  is easier to use  especially with less syntax written. In Javascript I created the option element and the data looped from the api I was then able to set it to the option. I did the same exact process with occupation. So now this feature presents choices of states and occupations to choose from
