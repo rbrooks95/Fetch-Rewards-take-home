@@ -14,4 +14,6 @@ i started with grabbing the from, passwords, submit button, messasge/ message co
 
 heres the link, i made it live using netlify
 https://vibrant-hypatia-86dcaa.netlify.app
+
+
 PS i included a number input, i was so in the zone i didnt check the requirements and added that because when i thought of a submit form i thought about how some of them ask for your number so sorry about that lol. 
