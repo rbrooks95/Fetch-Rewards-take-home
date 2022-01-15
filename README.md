@@ -1,7 +1,19 @@
 # Fetch-Rewards-take-home
-HTML FOCUS
+# HTML FOCUS
 
-so this project was made with HTML , CSS , Javascript with an addition to axios, a library that handles HTTP for cliet and node.js which i would explain its actions later on . I started with the HTML first to provide the UI. so i made a form and you know did the labels with the input and select for the drop down. in each input i put what type i was expecting so the form can expect it whether it was text, email, number, password etc doing this it validates any of the data entered in. the select i kept empty on purpose. the password input i put two, one for the password creation the other to confirm the password. after i placed a error/success message. lastly a submit button. i used some form validation from html that was already built in which is easier to accomplish exactly what i needed. so the very first attribute i used was "required", this made it that all fields in the form needed to be completed. "min/max length" attributes  i used for the name input to avoid people from putting a single chracter as the full name. "type" attribute i used for the email which a big part of validating this is by detecting the @. "pattern" attribute uses regex (regular expression) to see the pattern on how you want the number entered. i used this also for the password input, regex to watch the pattern i wanted to be entered 1 uppercase, 1 number, 1 lowercase and 8 characters long. so i found out about a "title" attribute built in html that displays a error pop up in the input box, so i used that to tell users if not filled out properly i need at least ("1 uppercase, 1 number, 1 lowercase and 8 characters long") which was pretty cool and saved time.the "name" attribute uses a key value pair system that i used to store the data submitted so i could use it for the api when submit is pressed. 
+This project consists of HTML , CSS , Javascript and the library axios to handle api calls. 
+
+I made a form with the following fields
+- first name
+- last name
+- [fill the rest here]
+- select
+ - I kept this empty because .... 
+- password 
+- confirm password
+
+For validation I used in built form element validation like number, @pattern etc etc.. [fill in]
+ 
 
 
 CSS FOCUS
